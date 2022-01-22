@@ -1,6 +1,7 @@
 # simple_calci
 
 …or create a new repository on the command line
+
 - echo "# simple_calci" >> README.md
 - git init
 - git add README.md
